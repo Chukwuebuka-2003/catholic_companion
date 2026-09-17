@@ -1,7 +1,6 @@
 # Catholic Companion Android
 
-Native Kotlin/Jetpack Compose implementation of the product plan in
-[`catholic-android-app-plan.md`](catholic-android-app-plan.md).
+Native Kotlin/Jetpack Compose implementation
 
 ## Implemented foundation
 
@@ -23,7 +22,7 @@ Native Kotlin/Jetpack Compose implementation of the product plan in
 - Contextual Learn chat with day/mystery prompts and visible source links.
 - A provider-neutral FastAPI AI endpoint with Exa retrieval that keeps service credentials out of the APK.
 
-The bundled English prayer text is deliberately labelled as draft in the UI and must still be checked against the selected edition. The signed-off 2026 General Roman Calendar is installed into Room from an immutable offline asset on first launch. Daily references resolve locally against the public-domain World English Bible, Catholic Edition; the app clearly states that this is not official English Lectionary wording. See [`docs/content-ingestion.md`](docs/content-ingestion.md), [`docs/source-register.csv`](docs/source-register.csv), and the [`backend`](backend/README.md).
+The bundled English prayer text is deliberately labelled as draft in the UI and must still be checked against the selected edition. The signed-off 2026 General Roman Calendar is installed into Room from an immutable offline asset on first launch. Daily references resolve locally against the public-domain World English Bible, Catholic Edition; the app clearly states that this is not official English Lectionary wording. 
 
 ## Build
 
@@ -36,11 +35,5 @@ Use Android Studio Quail or newer with JDK 17 and Android SDK 37 installed. Then
 
 No API key, account or backend is needed for the current offline milestone.
 
-AI is enabled only when the APK is built with `-PAI_BASE_URL=https://...`. See
-[`backend/README.md`](backend/README.md) for the FastAPI AI setup.
 
 ## Next product gate
-
-Have a qualified liturgical reviewer independently audit the generated 2026
-schedule and bundled English prayer text, then connect the Android app to the
-content manifest for future reviewed calendar updates.
