@@ -1,0 +1,18 @@
+{
+  "name": "catholic-companion-ai-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "wrangler types --check && tsc --noEmit && vitest run",
+    "dev": "wrangler dev --local",
+    "deploy": "wrangler deploy --minify",
+    "types": "wrangler types"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11",
+    "wrangler": "^4.131.1"
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "id": "eng-web-c",
+  "title": "World English Bible, Catholic Edition",
+  "edition": "2020 stable text edition",
+  "language": "English",
+  "sourceUrl": "https://ebible.org/eng-web-c/",
+  "permission": "Public domain; keep the trademarked edition name only for unmodified text.",
+  "vplArchiveSha256": "d31907f67fcfdc5a8b11a2c9a05746cc6682ebf53103b44fc7d9726776d0fee2",
+  "usfmArchiveSha256": "37f5086f0b65b9843118bfdb9a4c5c6cdaac8cb03df5121b32b14965cafd1e1d",
+  "books": [
+    {
+      "code": "GEN",
+      "name": "Genesis",
+      "verseCount": 1533
+    },
+    {
+      "code": "EXO",
+      "name": "Exodus",
+      "verseCount": 1213
+    },
+    {
+      "code": "LEV",
+      "name": "Leviticus",
+      "verseCount": 859
+    },
+    {
+      "code": "NUM",
+      "name": "Numbers",
+      "verseCount": 1288
+    },
+    {
+      "code": "DEU",
+      "name": "Deuteronomy",
+      "verseCount": 959
+    },
+    {
+      "code": "JOS",
+      "name": "Joshua",
+      "verseCount": 658
+    },
+    {
+      "code": "JDG",
+      "name": "Judges",
+      "verseCount": 618
+    },
+    {
+      "code": "RUT",
+      "name": "Ruth",
+      "verseCount": 85
+    },
+    {
+      "code": "1SA",
+      "name": "1 Samuel",
+      "verseCount": 810
+    },
+    {
+      "code": "2SA",
+      "name": "2 Samuel",
+      "verseCount": 695
+    },
+    {
+      "code": "1KI",
+      "name": "1 Kings",
+      "verseCount": 816
+    },
+    {
+      "code": "2KI",
+      "name": "2 Kings",
+      "verseCount": 719
+    },
+    {
+      "code": "1CH",
+      "name": "1 Chronicles",
+      "verseCount": 942
+    },
+    {
+      "code": "2CH",
+      "name": "2 Chronicles",
+      "verseCount": 822
+    },
+    {
+      "code": "EZR",
+      "name": "Ezra",
+      "verseCount": 280
+    },
+    {
+      "code": "NEH",
+      "name": "Nehemiah",
+      "verseCount": 406
+    },
+    {
+      "code": "TOB",
+      "name": "Tobit",
+      "verseCount": 244
+    },
+    {
+      "code": "JDT",
+      "name": "Judith",
+      "verseCount": 339
+    },
+    {
+      "code": "ESG",
+      "name": "Esther (Greek)",
+      "verseCount": 205
+    },
+    {
+      "code": "1MA",
+      "name": "1 Maccabees",
+      "verseCount": 924
+    },
+    {
+      "code": "2MA",
+      "name": "2 Maccabees",
+      "verseCount": 555
+    },
+    {
+      "code": "JOB",
+      "name": "Job",
+      "verseCount": 1070
+    },
+    {
+      "code": "PSA",
+      "name": "Psalms",
+      "verseCount": 2461
+    },
+    {
+      "code": "PRO",
+      "name": "Proverbs",
+      "verseCount": 915
+    },
+    {
+      "code": "ECC",
+      "name": "Ecclesiastes",
+      "verseCount": 222
+    },
+    {
+      "code": "SOL",
+      "name": "Song of Solomon",
+      "verseCount": 117
+    },
+    {
+      "code": "WIS",
+      "name": "Wisdom",
+      "verseCount": 436
+    },
+    {
+      "code": "SIR",
+      "name": "Sirach",
+      "verseCount": 1359
+    },
+    {
+      "code": "ISA",
+      "name": "Isaiah",
+      "verseCount": 1292
+    },
+    {
+      "code": "JER",
+      "name": "Jeremiah",
+      "verseCount": 1364
+    },
+    {
+      "code": "LAM",
+      "name": "Lamentations",
+      "verseCount": 154
+    },
+    {
+      "code": "BAR",
+      "name": "Baruch",
+      "verseCount": 213
+    },
+    {
+      "code": "EZE",
+      "name": "Ezekiel",
+      "verseCount": 1273
+    },
+    {
+      "code": "DNG",
+      "name": "Daniel (Greek)",
+      "verseCount": 530
+    },
+    {
+      "code": "HOS",
+      "name": "Hosea",
+      "verseCount": 197
+    },
+    {
+      "code": "JOE",
+      "name": "Joel",
+      "verseCount": 73
+    },
+    {
+      "code": "AMO",
+      "name": "Amos",
+      "verseCount": 146
+    },
+    {
+      "code": "OBA",
+      "name": "Obadiah",
+      "verseCount": 21
+    },
+    {
+      "code": "JON",
+      "name": "Jonah",
+      "verseCount": 48
+    },
+    {
+      "code": "MIC",
+      "name": "Micah",
+      "verseCount": 105
+    },
+    {
+      "code": "NAH",
+      "name": "Nahum",
+      "verseCount": 47
+    },
+    {
+      "code": "HAB",
+      "name": "Habakkuk",
+      "verseCount": 56
+    },
+    {
+      "code": "ZEP",
+      "name": "Zephaniah",
+      "verseCount": 53
+    },
+    {
+      "code": "HAG",
+      "name": "Haggai",
+      "verseCount": 38
+    },
+    {
+      "code": "ZEC",
+      "name": "Zechariah",
+      "verseCount": 211
+    },
+    {
+      "code": "MAL",
+      "name": "Malachi",
+      "verseCount": 55
+    },
+    {
+      "code": "MAT",
+      "name": "Matthew",
+      "verseCount": 1071
+    },
+    {
+      "code": "MAR",
+      "name": "Mark",
+      "verseCount": 678
+    },
+    {
+      "code": "LUK",
+      "name": "Luke",
+      "verseCount": 1150
+    },
+    {
+      "code": "JOH",
+      "name": "John",
+      "verseCount": 879
+    },
+    {
+      "code": "ACT",
+      "name": "Acts",
+      "verseCount": 1004
+    },
+    {
+      "code": "ROM",
+      "name": "Romans",
+      "verseCount": 433
+    },
+    {
+      "code": "1CO",
+      "name": "1 Corinthians",
+      "verseCount": 437
+    },
+    {
+      "code": "2CO",
+      "name": "2 Corinthians",
+      "verseCount": 257
+    },
+    {
+      "code": "GAL",
+      "name": "Galatians",
+      "verseCount": 149
+    },
+    {
+      "code": "EPH",
+      "name": "Ephesians",
+      "verseCount": 155
+    },
+    {
+      "code": "PHI",
+      "name": "Philippians",
+      "verseCount": 104
+    },
+    {
+      "code": "COL",
+      "name": "Colossians",
+      "verseCount": 95
+    },
+    {
+      "code": "1TH",
+      "name": "1 Thessalonians",
+      "verseCount": 89
+    },
+    {
+      "code": "2TH",
+      "name": "2 Thessalonians",
+      "verseCount": 47
+    },
+    {
+      "code": "1TI",
+      "name": "1 Timothy",
+      "verseCount": 113
+    },
+    {
+      "code": "2TI",
+      "name": "2 Timothy",
+      "verseCount": 83
+    },
+    {
+      "code": "TIT",
+      "name": "Titus",
+      "verseCount": 46
+    },
+    {
+      "code": "PHM",
+      "name": "Philemon",
+      "verseCount": 25
+    },
+    {
+      "code": "HEB",
+      "name": "Hebrews",
+      "verseCount": 303
+    },
+    {
+      "code": "JAM",
+      "name": "James",
+      "verseCount": 108
+    },
+    {
+      "code": "1PE",
+      "name": "1 Peter",
+      "verseCount": 105
+    },
+    {
+      "code": "2PE",
+      "name": "2 Peter",
+      "verseCount": 61
+    },
+    {
+      "code": "1JO",
+      "name": "1 John",
+      "verseCount": 105
+    },
+    {
+      "code": "2JO",
+      "name": "2 John",
+      "verseCount": 13
+    },
+    {
+      "code": "3JO",
+      "name": "3 John",
+      "verseCount": 14
+    },
+    {
+      "code": "JUD",
+      "name": "Jude",
+      "verseCount": 25
+    },
+    {
+      "code": "REV",
+      "name": "Revelation",
+      "verseCount": 404
+    }
+  ],
+  "verseCount": 35379
+}
